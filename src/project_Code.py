@@ -25,7 +25,7 @@ print("1-AND Gate 2-OR Gate 3-XOR Gate 4-NAND Gate 5-NOT Gate")
 #Get user's choice of logic gate
 gate_information = int(input("What gate you want to work on (1-5): "))
 
-#We use 4 nearly same print section. So we use simple function
+#We use 4 same print section. So we use simple function
 def result(output_result):
     print(f"Result on selected gate: {output_result}")
 
