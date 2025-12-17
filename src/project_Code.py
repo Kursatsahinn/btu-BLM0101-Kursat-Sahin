@@ -53,7 +53,7 @@ match gate_information:
         print(f"Your first input {first_input} will be {output_result} on NOT gate.") 
         
         output_result2 = int(not(second_input)) #The boolean result is cast to an integer value.
-        print(f"Your second input  {second_input} will be {output_result2} on NOT gate")
+        print(f"Your second input  {second_input} will be {output_result2} on NOT gate.")
     case _:
         print("Invalid gate selection!")
 print("\n")
