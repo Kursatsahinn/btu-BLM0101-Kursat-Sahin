@@ -9,4 +9,4 @@ Youtube Link:
 
 Project Description: The initial phase of this repository simulates the processing of two user-provided binary inputs (0 or 1) through a selected logic gate to determine and display the resultant output. 
 
-# Deneme
+#Deneme
