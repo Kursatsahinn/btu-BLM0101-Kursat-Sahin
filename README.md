@@ -6,7 +6,8 @@ Study of computer architecture and basic logic gates.
   * **Surname:** Şahin
   * **School Number:** 25360859432
 
-[](https://youtu.be/kZBzZVmVjw0) 
+# Project Presentation
+You can watch the project presentation from [Youtube](https://youtu.be/kZBzZVmVjw0) 
 
 # Project Topic: Computer Architecture and Logic Gates
 
